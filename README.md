@@ -11,4 +11,5 @@ Exercícios para praticar lógica em Python e se preparar para entrevistas técn
 ## Como executar
 ```bash
 python strings/reverse_string.py
+python strings/palindrome.py
 ```
